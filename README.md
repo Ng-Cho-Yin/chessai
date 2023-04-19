@@ -3,5 +3,6 @@
 
 #### Data source: pgnmentor database
 #### Methodology: Use Neural Net to create a board state calculator.Later use Minimax to extract optimum decision
-#### Helper Library: 
-      #### python-chess
+#### Major Library: 
+      Pytorch
+      python-chess
